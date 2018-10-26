@@ -1,0 +1,12 @@
+[submodule "Speaker-Recognition-with-GMM"]
+	path = Speaker-Recognition-with-GMM
+	url = https://github.com/wangy319/Speaker-Recognition-with-GMM.git
+[submodule "Semantic-Text-Categorization"]
+	path = Semantic-Text-Categorization
+	url = https://github.com/wangy319/Semantic-Text-Categorization.git
+[submodule "Identifying-political-persuasion-on-Reddit"]
+	path = Identifying-political-persuasion-on-Reddit
+	url = https://github.com/wangy319/Identifying-political-persuasion-on-Reddit.git
+[submodule "Fake-News"]
+	path = Fake-News
+	url = https://github.com/wangy319/Fake-News.git
